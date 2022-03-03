@@ -9,7 +9,7 @@ trigger:
 resources:
   pipelines:
     - pipeline: buildContosoAir
-      source: rb-ncc.ConsortioAir
+      source: rb-ncc.ContosoAir
       trigger:
         branches: 
           include:
