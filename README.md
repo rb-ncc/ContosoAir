@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/ncctraining/Tailspin/_apis/build/status/rb-ncc.ContosoAir?branchName=master)](https://dev.azure.com/ncctraining/Tailspin/_build/latest?definitionId=4&branchName=master)
+[![Build Status](https://dev.azure.com/ncctraining/Tailspin/_apis/build/status/rb-ncc.ContosoAir%20(2)?branchName=master)](https://dev.azure.com/ncctraining/Tailspin/_build/latest?definitionId=6&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
